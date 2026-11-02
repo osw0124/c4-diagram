@@ -45,5 +45,5 @@ node scripts/check-svg.mjs docs/diagrams/shop-container.svg --png /tmp/shop-cont
 ## 라이선스
 
 - 코드와 문서: [MIT](LICENSE)
-- `references/c4-model.md`: [c4model.com](https://c4model.com) (Simon Brown) 의 내용을 한국어로 요약·해석한 것으로, 원문과 같은 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 을 따릅니다.
+- `references/c4-model.md`: [c4model.com](https://c4model.com) (Simon Brown) 의 내용을 한국어로 요약·해석한 것으로, 원문과 같은 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 을 따릅니다. 자세한 내용은 [NOTICE](NOTICE) 에 있습니다.
 - 기본 색은 C4 모델에서 흔히 쓰는 파란 계열 배색을 따랐습니다.

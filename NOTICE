@@ -1,0 +1,9 @@
+c4-diagram
+Copyright (c) 2026 osw0124
+
+이 저장소의 코드와 문서는 LICENSE 파일의 MIT 라이선스를 따릅니다. 단, 아래 파일은 예외입니다.
+
+references/c4-model.md 는 c4model.com (Simon Brown) 의 내용을 한국어로 요약하고
+해석을 덧붙인 것입니다. 원문은 Creative Commons Attribution 4.0 International
+License (https://creativecommons.org/licenses/by/4.0/) 를 따르며, 이 파일도
+같은 조건(CC BY 4.0)으로 배포합니다.
